@@ -17,3 +17,5 @@ To run locally, do the usual:
     ./manage.py runserver
 
 6. View the site at http://localhost:8000/
+
+For Public Url- http://achandil86.pythonanywhere.com/
